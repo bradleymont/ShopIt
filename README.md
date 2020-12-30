@@ -1,4 +1,4 @@
-# CS-130-Project
+# ShopIt
 Fall 2020 CS 130 Project for Team 2, Discussion 1B
 
 <img align="left" width="100" height="100" src="/ShopItFrontend/assets/logo_filled.png" />
