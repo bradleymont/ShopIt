@@ -1,5 +1,4 @@
 # ShopIt
-Fall 2020 CS 130 Project for Team 2, Discussion 1B
 
 <img align="left" width="100" height="100" src="/ShopItFrontend/assets/logo_filled.png" />
 
@@ -20,3 +19,6 @@ In order to run each component of ShopIt, please refer to their respective READM
   - Mongoose
   - MongoDB Atlas
   - Mocha
+
+## Demo Video
+To view a demo of ShopIt, click [here](https://youtu.be/jy1cd_H-tXI)!
